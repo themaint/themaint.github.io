@@ -4,7 +4,8 @@ title: 대외활동 테스트 포스팅입니다.
 categories: 대외활동
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+본문 내용입니다.
+대외활동에 대한 정보를 올립니다.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
