@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: 대외활동 테스트 포스팅입니다.
+categories: 대외활동
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
